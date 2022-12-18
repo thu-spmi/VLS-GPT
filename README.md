@@ -1,2 +1,2 @@
 # VLS-GPT
-This is the code and data for paper "Variational Latent-State GPT for Semi-supervised Task-Oriented Dialog System". We conduct our semi-supervised experiments on two datasets, MultiWOZ2.1 and CrossWOZ. See more details in corresponding folders.
+This is the code and data for paper "Variational Latent-State GPT for Semi-Supervised Task-Oriented Dialog System". We conduct our semi-supervised experiments on two datasets, MultiWOZ2.1 and CrossWOZ. See more details in corresponding folders.
