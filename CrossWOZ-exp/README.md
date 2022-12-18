@@ -7,8 +7,8 @@ This is the code and data for CrossWOZ experiments.
 ## Data preprocessing
 First, you need to extract data from zip files:
 ```
-cd data
-unzip CrossWoz.zip
+unzip data.zip
+unzip db.zip
 ```
 Then preprocess these files
 ```
